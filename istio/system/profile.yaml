@@ -14,4 +14,4 @@ spec:
             memory: 100Mi
   values:
     prometheus:
-      enabled: false            
+      enabled: true            
